@@ -1,2 +1,2 @@
-# Microcontroller-Project
-The idea of our project is to prevent suffocation in closed places, whenever gas or smoke detected, By turning on a fan on 220V by using relay and sensor to discovered smoke and gas.
+# PIC18(Microcontroller)-Project
+The project talks about how to prevent suffocation in closed places, whenever gas or smoke is detected, By turning on a fan on 220V by using a relay and sensor to discover smoke and gas.
